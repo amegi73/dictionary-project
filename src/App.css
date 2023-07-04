@@ -1,8 +1,18 @@
-.App-header {
-  text-align: center;
+body {
+  background-color: #8aacff;
 }
 
-.container {
+.App-header {
+  text-align: center;
+  font-size: 42px;
+  color: white;
+}
+
+.Dictionary {
+  margin: 30px 0;
+}
+
+.App {
   background-color: #8aacff;
 }
 
