@@ -1,0 +1,16 @@
+.Meaning h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.Meaning .example {
+  opacity: 0.7;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.Meaning .example::first-letter {
+  text-transform: capitalize;
+}

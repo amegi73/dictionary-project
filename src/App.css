@@ -2,6 +2,10 @@ body {
   background-color: #8aacff;
 }
 
+a {
+  color: ;
+}
+
 .App-header {
   text-align: center;
   font-size: 42px;
@@ -10,7 +14,6 @@ body {
 
 .Dictionary {
   margin: 30px 0;
-  text-align: center;
 }
 
 .App {

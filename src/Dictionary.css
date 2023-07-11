@@ -1,4 +1,29 @@
 .Dictionary {
-  background-color: #8aacff;
-  color: white;
+  font-family: "PT Serif", serif;
+}
+
+.Dictionary h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.Dictionary h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+.Dictionary section {
+  background-color: #fcf8f3;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  color: #333;
+  border: 2px solid #ddd;
+  border-radius: 4px;
 }
